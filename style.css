@@ -26,7 +26,7 @@ body {
   width: min(100%, 370px);
   overflow: hidden;
   text-align: center;
-  border: 1px solid rgba(255, 255, 255, 0.75);
+  border: 2px solid rgba(243, 6, 6, 0.75);
   border-radius: 28px;
   background: rgba(255, 255, 255, 0.82);
   box-shadow: 0 22px 50px rgba(64, 77, 125, 0.18);
